@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import (
     StandardScaler,
-)  # Because we will be using the saved pickle file
+)  # Because we'll be using the saved pickle file
 from src.pipeline.predict_pipeline import CustomData, PredictPipeline
 
 
